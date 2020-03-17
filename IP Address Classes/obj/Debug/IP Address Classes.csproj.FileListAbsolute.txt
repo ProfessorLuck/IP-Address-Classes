@@ -1,0 +1,19 @@
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\bin\Debug\IP Address Classes.exe.config
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\bin\Debug\IP Address Classes.exe
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\bin\Debug\IP Address Classes.pdb
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.csprojAssemblyReference.cache
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\obj\Debug\IP_Address_Classes.Form1.resources
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\obj\Debug\IP_Address_Classes.Properties.Resources.resources
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.csproj.GenerateResource.cache
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.csproj.CoreCompileInputs.cache
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.exe
+C:\Users\legod\source\repos\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.pdb
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\bin\Debug\IP Address Classes.exe.config
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\bin\Debug\IP Address Classes.exe
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\bin\Debug\IP Address Classes.pdb
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.csprojAssemblyReference.cache
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\obj\Debug\IP_Address_Classes.Form1.resources
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\obj\Debug\IP_Address_Classes.Properties.Resources.resources
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.csproj.GenerateResource.cache
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.exe
+Z:\Downloads\Projects\IP Address Classes\IP Address Classes\obj\Debug\IP Address Classes.pdb
